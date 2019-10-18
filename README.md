@@ -1,2 +1,2 @@
-# cybersecurity
-MAS Cyber Security
+# Initial page
+
